@@ -1,6 +1,6 @@
 # TC-Design-Singleton-ObjectCreator
 
-* Implement an `ObjectCreator` class which makes use of the singleton design pattern for each of these archetypes:
+* Create implementations of the `ObjectCreator` class by making use of the singleton design pattern for each of the following archetypes:
   * Eager Initialization
   * Lazy Initialization
   * Enum Singleton
