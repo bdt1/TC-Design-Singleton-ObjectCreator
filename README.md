@@ -1,5 +1,10 @@
 # TC-Design-Singleton-ObjectCreator
+* Purpose - To demonstrate [singleton design pattern](http://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples)
+* Objective - To implement 4 different types of singleton design patterns.
+* Design Description - Ensure a class only has one instance, and provide a global point of access to it.
+ * Source - Design Patterns: Elements of Reusable Object Oriented Software
 
+# Instructions
 * Create implementations of the `ObjectCreator` class by making use of the singleton design pattern for each of the following archetypes:
   * [Eager Initialization](https://github.com/Zipcoder/TC-Design-Singleton-ObjectCreator/blob/master/src/main/java/io/zipcoder/zcw_demo_singleton/theory/SingletonInitializationEager.java)
   * [Lazy Initialization](https://github.com/Zipcoder/TC-Design-Singleton-ObjectCreator/blob/master/src/main/java/io/zipcoder/zcw_demo_singleton/theory/SingletonInitializationLazy.java)
